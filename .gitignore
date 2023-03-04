@@ -1,0 +1,4 @@
+*.pem
+*.csr
+*.key
+./wildcard_old
